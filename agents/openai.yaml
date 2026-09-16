@@ -1,0 +1,4 @@
+interface:
+  display_name: "PhD Outreach Email"
+  short_description: "Research supervisors and write bilingual PhD outreach emails"
+  default_prompt: "Use $phd-outreach-codex to research this prospective supervisor and draft a natural bilingual PhD outreach email."
